@@ -1,0 +1,10 @@
+{
+  "TRACKING_PAGE": {
+    "SIGN_IN": "Sign In",
+    "TITLE": "Track your delivery",
+    "SUBTITLE": "Enter your tracking number to follow your package",
+    "PLACEHOLDER": "Enter your tracking number",
+    "BUTTON": "Track",
+    "ERROR_ORDER_NOT_FOUND": "Order not found"
+  }
+}

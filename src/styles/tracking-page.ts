@@ -62,11 +62,14 @@ export const styles = StyleSheet.create({
     marginTop: 16,
     height: 52,
     flexDirection: 'row',
-    alignItems: 'center'
+    justifyContent: 'center',
+    alignItems: 'center',
+    gap: 8
   },
   buttonText: {
     color: colors.violet[300],
-    fontSize: 16
+    fontSize: 16,
+    fontWeight: 700
   },
   buttonIcon: {
     color: colors.violet[300],

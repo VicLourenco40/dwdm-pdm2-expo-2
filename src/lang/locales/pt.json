@@ -1,0 +1,10 @@
+{
+  "TRACKING_PAGE": {
+    "SIGN_IN": "Entrar",
+    "TITLE": "Siga a sua encomenda",
+    "SUBTITLE": "Insira o seu código de seguimento para acompanhar a sua encomenda",
+    "PLACEHOLDER": "Insira o seu código de seguimento",
+    "BUTTON": "Acompanhar",
+    "ERROR_ORDER_NOT_FOUND": "Encomenda não encontrada"
+  }
+}
